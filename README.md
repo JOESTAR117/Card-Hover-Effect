@@ -8,7 +8,6 @@
  
  as imagens voces podem usar a que quiserem ok,mais deixarei as que usei.
  
- os codigos estao na pasta "Indentificação"
  
 ![Captura de tela 2022-11-21 142646](https://user-images.githubusercontent.com/116031921/203122113-c5165d22-ec4c-4621-9209-b6fd14ffe71e.png)
  
@@ -19,4 +18,3 @@
  
  The images you can use whatever you want ok, but I'll leave the ones I used.
  
- the codes are in the "Indentification" folder

@@ -1,0 +1,191 @@
+body {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  font-family: 'Anton', sans-serif;
+}
+
+.container {
+  height: 100vh;
+  width: 0vw;
+  max-height: 800px;
+  max-width: 1280px;
+  min-height: 600px;
+  min-width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+.icons {
+  width: 100px;
+  color: white;
+}
+
+.border {
+  height: 369px;
+  width: 290px;
+  background: transparent;
+  border-radius: 10px;
+  transition: border 1s;
+  position: relative;
+}
+
+.border:hover {
+  border: 1px solid #fff;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+#ins:hover {
+  color: #dd4b39;
+}
+
+#twi:hover {
+  color: #55acee;
+}
+
+#fac:hover {
+  color: #3b5999;
+}
+
+.card {
+  height: 379px;
+  width: 300px;
+  background: #808080;
+  border-radius: 10px;
+  transition: background 0.8s;
+  overflow: hidden;
+  background: #000;
+  box-shadow: 0 70px 63px -60px #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.card0 {
+  background: url("./亚洲AV片不卡无码一_亚洲无码在线视频_日本免费人成在线观看网站.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+
+.card0:hover {
+  background: url("./亚洲AV片不卡无码一_亚洲无码在线视频_日本免费人成在线观看网站.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card0:hover h2 {
+  opacity: 1;
+}
+
+.card0:hover .fa {
+  opacity: 1;
+}
+
+.card1 {
+  background: url("./soyons-suave.png" ) center center no-repeat;
+  background-size: 300px;
+}
+
+.card1:hover {
+  background: url("./soyons-suave.png" ) left center no-repeat;
+  background-size: 600px;
+}
+
+.card1:hover h2 {
+  opacity: 1;
+}
+
+.card1:hover .fa {
+  opacity: 1;
+}
+
+.card2 {
+  background: url("./Uma_.jpeg") center center no-repeat;
+  background-size: 400px;
+}
+
+.card2:hover {
+  background: url("./Uma_.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card2:hover h2 {
+  opacity: 1;
+}
+
+.card2:hover .fa {
+  opacity: 1;
+}
+
+h2 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #fff;
+  margin: 20px;
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.fa {
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.fa a:hover {
+  background: red;
+}
+
+.icons {
+  position: absolute;
+  fill: #fff;
+  color: #fff;
+  height: 130px;
+  top: 226px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.card3 {
+  background: url("./download (1).jpeg") center center no-repeat;
+  background-size: 270px;
+}
+.card3:hover {
+  background: url("./download (1).jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card3:hover .fa {
+  opacity: 1;
+}
+.card4 {
+  background: url("./Godfather_BR_800x1200_edited.jpg") center center no-repeat;
+  background-size: 270px;
+}
+.card4:hover {
+  background: url("./Godfather_BR_800x1200_edited.jpg") left center no-repeat;
+  background-size: 600px;
+}
+.card4:hover .fa {
+  opacity: 1;
+}
+.card5 {
+  background: url("./'Kill Bill' Poster by Retina Creative _ Displate.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card5:hover {
+  background: url("./'Kill Bill' Poster by Retina Creative _ Displate.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card5:hover .fa {
+  opacity: 1;
+}
+
+
+
+#imdb:hover {
+  background: rgb(165, 165, 78);
+}

@@ -3,6 +3,9 @@ body {
   color: rgb(255, 255, 255);
   font-family: 'Anton', sans-serif;
 }
+h1 {
+  text-align: center;
+}
 
 .container {
   height: 100vh;

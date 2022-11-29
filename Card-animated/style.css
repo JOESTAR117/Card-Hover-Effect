@@ -3,7 +3,7 @@ body {
   color: rgb(255, 255, 255);
   font-family: 'Anton', sans-serif;
 }
-h1 {
+h1,h2 {
   text-align: center;
 }
 
@@ -80,7 +80,7 @@ a {
   background-size: 600px;
 }
 
-.card0:hover h2 {
+.card0:hover h3 {
   opacity: 1;
 }
 
@@ -98,7 +98,7 @@ a {
   background-size: 600px;
 }
 
-.card1:hover h2 {
+.card1:hover h3 {
   opacity: 1;
 }
 
@@ -116,7 +116,7 @@ a {
   background-size: 600px;
 }
 
-.card2:hover h2 {
+.card2:hover h3 {
   opacity: 1;
 }
 
@@ -124,7 +124,7 @@ a {
   opacity: 1;
 }
 
-h2 {
+h3 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #fff;
   margin: 20px;
